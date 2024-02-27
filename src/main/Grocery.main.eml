@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../src/main"/>
+	<lib name="Gradle: jakarta.servlet:jakarta.servlet-api:5.0.0" scope="PROVIDED"/>
+	<levels>
+		<level name="Gradle: jakarta.servlet:jakarta.servlet-api:5.0.0" value="project"/>
+		<level name="Gradle: mysql:mysql-connector-java:8.0.15" value="project"/>
+		<level name="Gradle: com.google.protobuf:protobuf-java:3.6.1" value="project"/>
+	</levels>
+</component>

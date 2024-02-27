@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter:5.9.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.1/9274d3757e224bc02eae367bd481062a263c150b/junit-jupiter-5.9.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.1/ffcd1013edaeee112be11fcddeb38882d79238de/junit-jupiter-params-5.9.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.1/7bb53fbc0173e9f6a9d21d58297af94b1f2f9ce1/junit-jupiter-api-5.9.1.jar" />
+  </library>
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.9.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.1/3145f821b5cd10abcdc5f925baa5fffa6f1b628f/junit-platform-commons-1.9.1.jar" />
+  </library>
+  <library name="Gradle: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.9.1/1bf771097bde296c3ab174861954e8aafaaf2e94/junit-jupiter-engine-5.9.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.9.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.1/83591e5089d6cea5f324aa3ecca9b19d5a275803/junit-platform-engine-1.9.1.jar" />
+  </library>
+  <library name="Gradle: mysql:mysql-connector-java:8.0.15">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.15/1cd928d0f1a93563993ce1d8b468217ea0d19b11/mysql-connector-java-8.0.15.jar" />
+  </library>
+  <library name="Gradle: com.google.protobuf:protobuf-java:3.6.1">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-3.6.1.jar" />
+  </library>
+  <library name="Gradle: jakarta.servlet:jakarta.servlet-api:5.0.0">
+    <archive path="C:/Users/Bachu Sai Raj/.gradle/caches/modules-2/files-2.1/jakarta.servlet/jakarta.servlet-api/5.0.0/2e6b8ccde55522c879434ddec3714683ccae6867/jakarta.servlet-api-5.0.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

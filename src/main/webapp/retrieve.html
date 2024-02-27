@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+        /* Header styles */
+        header {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        /* Footer styles */
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        /* Centered content */
+        .container {
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Form styles */
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input[type="date"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+<header>
+  Welcome to Bachu's Grocery Store
+</header>
+
+<div class="container">
+  <form action="infoRetreiveServlet" method="post" name="retreive">
+    <label for="startDate">Start Date:</label>
+    <input type="date" id="startDate" name="startDate">
+    <label for="endDate">End Date:</label>
+    <input type="date" id="endDate" name="endDate">
+    <button type="submit">Filter Transactions</button>
+  </form>
+</div>
+
+<footer>
+  &copy; 2023 Bachu's Store. All rights reserved.
+</footer>
+<script>
+function validateForm() {
+    var startDate = document.getElementById("startDate").value;
+    var endDate = document.getElementById("endDate").value;
+
+    if (startDate === "" || endDate === "") {
+        alert("Both Start Date and End Date are required.");
+        return false; // Prevent form submission
+    }
+
+    return true; // Allow form submission
+}
+</script>
+</body>
+</html>

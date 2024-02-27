@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../build/classes/java/test"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../src/test">
+		<testFolder url="file://$MODULE_DIR$/../../src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/../../src/test/resources"/>
+	</contentEntry>
+	<lib name="Gradle: org.apiguardian:apiguardian-api:1.1.2" scope="PROVIDED"/>
+	<lib name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1" scope="RUNTIME"/>
+	<lib name="Gradle: org.junit.platform:junit-platform-engine:1.9.1" scope="RUNTIME"/>
+	<levels>
+		<level name="Gradle: mysql:mysql-connector-java:8.0.15" value="project"/>
+		<level name="Gradle: org.junit.jupiter:junit-jupiter:5.9.1" value="project"/>
+		<level name="Gradle: com.google.protobuf:protobuf-java:3.6.1" value="project"/>
+		<level name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.1" value="project"/>
+		<level name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1" value="project"/>
+		<level name="Gradle: org.apiguardian:apiguardian-api:1.1.2" value="project"/>
+		<level name="Gradle: org.junit.platform:junit-platform-commons:1.9.1" value="project"/>
+		<level name="Gradle: org.opentest4j:opentest4j:1.2.0" value="project"/>
+		<level name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1" value="project"/>
+		<level name="Gradle: org.junit.platform:junit-platform-engine:1.9.1" value="project"/>
+	</levels>
+</component>
